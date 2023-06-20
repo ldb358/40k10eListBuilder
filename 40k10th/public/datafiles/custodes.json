@@ -1,0 +1,84 @@
+{
+    "faction": "Adeptus Custodes",
+    "units": {
+        "Aleya": {
+            "1 model": 80
+        },
+       "Allarus Custodians": {
+            "2 models": 130,
+            "3 models": 195,
+            "5 models": 325,
+            "6 models": 390
+        },
+        "Anathema Psykana Rhino": {
+            "1 model": 75
+        },
+        "Blade Champion": {
+            "1 model": 100
+        },
+        "Custodian Guard": {
+            "4 models": 180,
+            "5 models": 225,
+            "9 models": 405,
+            "10 models": 450
+        },
+        "Custodian Wardens": {
+            "3 models": 150,
+            "6 models": 300
+        },
+        "Knight-Centura": {
+            "1 model": 75
+        },
+        "Prosecutors": {
+            "4 models": 40,
+            "5 models": 50,
+            "9 models": 90,
+            "10 models": 100
+        },
+        "Shield-Captain": {
+            "1 model": 120
+        },
+        "Shield-Captain in Allarus Terminator Armour": {
+            "1 model": 120
+        },
+        "Shield-Captain on Dawneagle Jetbike": {
+            "1 model": 145
+        },
+        "Trajann Valoris": {
+            "1 model": 145
+        },
+       "Valerian": {
+            "1 model": 115
+        },
+        "Venerable Contemptor Dreadnought": {
+            "1 model": 185
+        },
+        "Venerable Land Raider": {
+            "1 model": 260
+        },
+        "Vertus Praetors": {
+            "2 models": 180,
+            "3 models": 270,
+            "5 models": 450,
+            "6 models": 540
+        },
+       "Vigilators": {
+            "4 models": 60,
+            "5 models": 75,
+            "9 models": 135,
+            "10 models": 150
+        },
+        "Witchseekers": {
+            "4 models": 60,
+            "5 models": 75,
+            "9 models": 135,
+            "10 models": 150
+        }
+    },
+    "upgrades": {
+        "Ceaseless Hunter": 30,
+        "Inspirational Exemplar": 10,
+        "Unstoppable Destroyer": 25,
+        "Veiled Blade": 25
+    }
+}

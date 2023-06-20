@@ -1,0 +1,113 @@
+{
+    "faction": "Adeptus Mechanicus",
+    "units": {
+        "Archaeopter Fusilave": {
+            "1 model": 160
+        },
+       "Archaeopter Stratoraptor": {
+            "1 model": 165
+        },
+        "Archaeopter Transvector": {
+            "1 model": 155
+        },
+        "Belisarius Cawl": {
+            "1 model": 185
+        },
+        "Corpuscarii Electro-Priests": {
+            "5 models": 65,
+            "10 models": 130
+        },
+        "Cybernetica Datasmith": {
+            "1 model": 35
+        },
+        "Fulgurite Electro-Priests": {
+            "5 models": 80,
+            "10 models": 160
+        },
+        "Ironstrider Ballistarii": {
+            "1 model": 50,
+            "2 models": 100,
+            "3 models": 150
+        },
+        "Kastelan Robots": {
+            "2 models": 215,
+            "4 models": 430
+        },
+        "Kataphron Breachers": {
+            "3 models": 150,
+            "6 models": 300
+        },
+        "Kataphron Destroyers": {
+            "3 models": 120,
+            "6 models": 240
+        },
+        "Onager Dunecrawler": {
+            "1 model": 140
+        },
+       "Pteraxii Skystalkers": {
+            "5 models": 70,
+            "10 models": 140
+        },
+        "Pteraxii Sterylizors": {
+            "5 models": 75,
+            "10 models": 150
+        },
+        "Serberys Raiders": {
+            "3 models": 75,
+            "6 models": 150
+        },
+        "Serberys Sulphurhounds": {
+            "3 models": 65,
+            "6 models": 130
+        },
+       "Servitors": {
+            "4 models": 50
+        },
+        "Sicarian Infiltrators": {
+            "5 models": 80,
+            "10 models": 160
+        },
+        "Sicarian Ruststalkers": {
+            "5 models": 75,
+            "10 models": 150
+        },
+        "Skitarii Marshal": {
+            "1 model": 45
+        },
+       "Skitarii Rangers": {
+            "10 models": 125
+        },
+        "Skitarii Vanguard": {
+            "10 models": 100    
+        },
+        "Skorpius Disintegrator": {
+            "1 model": 195
+        },
+        "Skorpius Dunerider": {
+            "1 model": 80
+        },
+        "Sydonian Dragoons": {
+            "1 model": 75,
+            "2 models": 150,
+            "3 models": 225 
+        },
+        "Tech-Priest Dominus": {
+            "1 model": 75
+        },
+       "Tech-Priest Enginseer": {
+            "1 model": 45
+        },
+        "Tech-Priest Manipulus": {
+            "1 model": 60
+        },
+        "Technoarcheologist": {
+            "1 model": 45
+        }
+    },
+    "upgrades": {
+        "Archived Purge Protocols": 10,
+        "Excoriating Emanation": 25,
+        "Master Annihilator": 35,
+        "Omni-steriliser": 20
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "faction": "World Eaters",
+    "units": {
+        "Angron": {
+            "1 model": 415
+        },
+        "Eightbound": {
+            "3 models": 155,
+            "6 models": 310
+        },
+        "Exalted Eightbound": {
+            "3 models": 180,
+            "6 models": 360
+        },
+        "Jakhals": {
+            "10 models": 75,
+            "20 models": 150
+        },
+        "Khorne Berzerkers": {
+            "5 models": 115,
+            "10 models": 230
+        },
+        "Khorne Lord of Skulls": {
+            "1 model": 420
+        },
+        "Kharn the Betrayer": {
+            "1 model": 95
+        },
+        "Lord Invocatus": {
+            "1 model": 155
+        },
+        "World Eaters Chaos Spawn": {
+            "2 models": 65
+        },
+        "World Eaters Daemon Prince": {
+            "1 model": 220
+        },
+        "World Eaters Daemon Prince with Wings": {
+            "1 model": 215
+        },
+        "World Eaters Defiler": {
+            "1 model": 210
+        },
+        "World Eaters Forgefiend": {
+            "1 model": 150
+        },
+        "World Eaters Hellbrute": {
+            "1 model": 150
+        },
+        "World Eaters Heldrake": {
+            "1 model": 215
+        },
+        "World Eaters Landraider": {
+            "1 model": 255
+        },
+        "World Eaters Lord on Juggernaut": {
+            "1 model": 120
+        },
+        "World Eaters Master if Executions": {
+            "1 model": 80
+        },
+        "World Eaters Maulerfiend": {
+            "1 model": 175
+        },
+        "World Eaters Predator Annihilator": {
+            "1 model": 130
+        },
+        "World Eaters Predator Destructor": {
+            "1 model": 130
+        },
+        "World Eaters Rhino": {
+            "1 model": 85
+        },
+        "World Eaters Terminator Squad": {
+            "5 models": 195,
+            "10 models": 390
+        }
+    },
+    "upgrades": {
+        "Battle-lust": 15,
+        "Berzerker Glaive": 25,
+        "Favoured of Khorne": 30,
+        "Helm of Brazen Ire": 25
+    }
+}

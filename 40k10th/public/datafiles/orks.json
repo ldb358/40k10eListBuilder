@@ -1,0 +1,194 @@
+{
+    "faction": "Orks",
+    "units": {
+        "Battlewagon": {
+            "1 model": 185
+        },
+       "Beast Snagga Boyz": {
+            "10 models": 105,
+            "20 models": 210
+        },
+        "Beastboss": {
+            "1 model": 80
+        },
+        "Beastboss on Squigosaur": {
+            "1 model": 165
+        },
+        "Big Mek in Mega Armour": {
+            "1 model": 100
+        },
+        "Big Mek with Kustom Force Field": {
+            "1 model": 65
+        },
+        "Big Mek with Shokk Attack Gun": {
+            "1 model": 75
+        },
+        "Big'ed Bossbunka": {
+            "1 model": 135
+        },
+        "Blitza-bommer": {
+            "1 model": 115
+        },
+        "Boomdakka Snazzwagon": {
+            "1 model": 90
+        },
+        "Boss Snikrot": {
+            "1 model": 105
+        },
+        "Boss Zagstruk": {
+            "1 model": 100
+        },
+        "Boyz": {
+            "10 models": 85,
+            "20 models": 170
+        },
+        "Burna Boyz": {
+            "1 Spanner and 4 Burna Boyz": 65,
+            "2 Spanners and 8 Burna Boyz": 130,
+            "3 Spanners and 12 Burna Boyz": 195
+        },
+        "Burna-bommer": {
+            "1 model": 125
+        },
+        "Dakkajet": {
+            "1 model": 135
+        },
+        "Deff Dread": {
+            "1 model": 150
+        },
+        "Deffkilla Wartrike": {
+            "1 model": 90
+        },
+        "Deffkoptas": {
+            "3 models": 115,
+            "6 models": 230
+        },
+        "Flash Gitz": {
+            "5 models": 95
+        },
+        "Ghazghkull Thraka": {
+            "2 models": 235
+        },
+        "Gorkanaut": {
+            "1 model": 295
+        },
+        "Gretchin": {
+            "11 models": 45,
+            "22 models": 90
+        },
+        "Hunta Rig": {
+            "1 model": 180
+        },
+        "Kaptin Badrukk": {
+            "1 model": 95
+        },
+        "Kill Rig": {
+            "1 model": 220
+        },
+        "Killa Kans": {
+            "3 models": 150,
+            "6 models": 300
+        },
+        "Kommandos": {
+            "10 models": 135
+        },
+        "Kustom Boosta-blasta": {
+            "1 model": 85
+        },
+        "Lootas": {
+            "1 Spanner and 4 Lootas": 55,
+            "2 Spanners and 8 Lootas": 110,
+            "3 Spanners and 12 Lootas": 165
+        },
+        "Mad Doc Grotsnik": {
+            "1 model": 75
+        },
+        "Meganobz": {
+            "2 models": 65,
+            "3 models": 100,
+            "5 models": 165,
+            "6 models": 200
+        },
+        "Megatrakk Scrapjet": {
+            "1 model": 90
+        },
+        "Mek": {
+            "1 model": 45
+        },
+        "Mek Gunz": {
+            "1 model": 45,
+            "2 models": 90,
+            "3 models": 135
+        },
+        "Mekboy Workshop": {
+            "1 model": 80
+        },
+        "Morkanaut": {
+            "1 model": 305
+        },
+        "Mozrog Skragbad": {
+            "1 model": 195
+        },
+        "Nob on Smash Squig": {
+            "1 model": 75
+        },
+        "Nobz": {
+            "5 models": 115,
+            "10 models": 230
+        },
+        "Painboss": {
+            "1 model": 70
+        },
+        "Painboy": {
+            "1 model": 80
+        },
+        "Rukkatrukk Squigbuggy": {
+            "1 model": 110
+        },
+        "Shokkjump Dragsta": {
+            "1 model": 85
+        },
+        "Squighog Boyz": {
+            "3 models": 110,
+            "6 models": 220
+        },
+        "Stompa": {
+            "1 model": 800
+        },
+        "StormBoyz": {
+            "5 models": 65,
+            "10 models": 130
+        },
+        "Tankbustas": {
+            "5 models": 135
+        },
+        "Trukk": {
+            "1 model": 50
+        },
+        "Warbikers": {
+            "3 models": 75,
+            "6 models": 150
+        },
+        "Warboss": {
+            "1 model": 70
+        },
+        "Wazbom Blastajet": {
+            "1 model": 175
+        },
+        "Weirdboy": {
+            "1 model": 55
+        },
+        "Wurrboy": {
+            "1 model": 60
+        },
+        "Zodgrod Wortsnagg": {
+            "1 model": 80
+        }
+    },
+    "upgrades": {
+        "Follow Me Ladz": 25,
+        "Headwoppa's Killchoppa": 20,
+        "Kunnin' But Brutal": 15,
+        "Supa-Cybork Body": 15
+    }
+}
